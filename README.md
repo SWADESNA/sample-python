@@ -46,7 +46,7 @@ Here's an example code change you can make for this app:
 
 You can learn more about the App Platform and how to manage and update your application at https://www.digitalocean.com/docs/app-platform/.
 
-## Deleting the App
+## Deleting the App Imp
 
 When you no longer need this sample application running live, you can delete it by following these steps:
 1. Visit the Apps control panel at https://cloud.digitalocean.com/apps.
